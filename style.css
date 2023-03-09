@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Lato;
+}
+
+#user{
+  display: flex;
+  padding: 2px;
+
+}
+#user h2,p,button{
+  margin: 6px;
+}
+
